@@ -51,8 +51,8 @@ export default function Footer({ isDarkMode }: FooterProps) {
             >
               Located in the heart of Hollywood, just a short stroll from the
               iconic TCL Chinese Theatre and the Walk of Fame. Our office is
-              open to special guests and media inquiries, and we'd love to hear
-              from fellow film lovers, journalists, and enthusiasts who are
+              open to special guests and media inquiries, and we&apos;d love to
+              hear from fellow film lovers, journalists, and enthusiasts who are
               passionate about the ever-evolving world of entertainment.
             </p>
           </div>

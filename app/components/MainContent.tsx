@@ -71,29 +71,30 @@ export default function MainContent({
                 } pl-4 mb-4 italic`}
               >
                 <p>
-                  "I never dreamed of Hollywood - it dreamed of me," says Bevety
-                  in her signature rasp, lighting a cigarette with the same hand
-                  that penned three bestsellers last year. "These studios?
-                  They're just playgrounds for grown-ups who never learned to
-                  share."
+                  &quot;I never dreamed of Hollywood - it dreamed of me,&quot;
+                  says Bevety in her signature rasp, lighting a cigarette with
+                  the same hand that penned three bestsellers last year.
+                  &quot;These studios? They&apos;re just playgrounds for
+                  grown-ups who never learned to share.&quot;
                 </p>
               </div>
               <p className="mb-3">
                 At just 28, Maria Bevety has become the most talked-about
                 creative force since Kubrick. Her debut novel{" "}
-                <span className="italic">"Sunset Shadows"</span> spent 47 weeks
-                on the Times list, while her uncredited rewrites on{" "}
-                <span className="italic">"Cosmic Drifter"</span> allegedly saved
-                the $12M production from disaster.
+                <span className="italic">&quot;Sunset Shadows&quot;</span> spent
+                47 weeks on the Times list, while her uncredited rewrites on{" "}
+                <span className="italic">&quot;Cosmic Drifter&quot;</span>{" "}
+                allegedly saved the $12M production from disaster.
               </p>
               <p className="mb-3">
-                Critics call Bevety's style "ferociously honest and
-                unapologetically raw," blending gritty realism with a surreal,
-                dreamlike edge. To her growing fanbase, she's the voice of a new
-                generation disillusioned by Hollywood's gloss.
+                Critics call Bevety&apos;s style &quot;ferociously honest and
+                unapologetically raw,&quot; blending gritty realism with a
+                surreal, dreamlike edge. To her growing fanbase, she&apos;s the
+                voice of a new generation disillusioned by Hollywood&apos;s
+                gloss.
               </p>
               <p className="mb-3">
-                The Melbourne native's rise reads like one of her plots:
+                The Melbourne native&apos;s rise reads like one of her plots:
               </p>
               <ul className="mb-3 pl-5 list-disc text-sm">
                 <li>
@@ -103,7 +104,9 @@ export default function MainContent({
                 <li>
                   <span className="font-bold">1975</span> - Published first
                   short story in{" "}
-                  <span className="italic">"Tales of the Unseen"</span>
+                  <span className="italic">
+                    &quot;Tales of the Unseen&quot;
+                  </span>
                 </li>
                 <li>
                   <span className="font-bold">1977</span> - Signed by William
@@ -122,20 +125,20 @@ export default function MainContent({
                     isDarkMode ? "text-amber-400" : ""
                   }`}
                 >
-                  Bevety's Law:
+                  Bevety&apos;s Law:
                 </p>
                 <p className="text-s italic">
-                  "Never trust a producer who wears sunglasses indoors, and
-                  always demand final cut - even if it's just your grocery
-                  list."
+                  &quot;Never trust a producer who wears sunglasses indoors, and
+                  always demand final cut - even if it&apos;s just your grocery
+                  list.&quot;
                 </p>
               </div>
               <p className="mb-6">
                 Next month sees the release of her passion project - a neo-noir
                 thriller shot guerilla-style on leftover film stock from
-                abandoned MGM productions. "They called me reckless," she grins,
-                "until the dailies came back. Now they're calling it genius.
-                Hollywood loves a winner."
+                abandoned MGM productions. &quot;They called me reckless,&quot;
+                she grins, &quot;until the dailies came back. Now they&apos;re
+                calling it genius. Hollywood loves a winner.&quot;
               </p>
             </div>
           </div>
@@ -173,7 +176,7 @@ export default function MainContent({
             }`}
             style={{ fontFamily: "'Playfair Display', serif" }}
           >
-            HOLLYWOOD'S SECRET PARTIES
+            HOLLYWOOD&apos;S SECRET PARTIES
           </h2>
           <div className="flex mb-4">
             <div
@@ -319,7 +322,7 @@ export default function MainContent({
               } m-2`}
               style={{ fontFamily: "'Playfair Display', serif" }}
             >
-              THIS WEEK'S ISSUE
+              THIS WEEK&apos;S ISSUE
             </h3>
             <p
               className={`text-sm mb-6 ${
@@ -439,24 +442,24 @@ export default function MainContent({
             } pb-3`}
             style={{ fontFamily: "'Playfair Display', serif" }}
           >
-            THIS WEEK'S HOROSCOPE
+            THIS WEEK&apos;S HOROSCOPE
           </h3>
           <div className="text-sm space-y-4">
             {[
               {
                 sign: "♈︎ ARIES",
                 prediction:
-                  "A surprise script offer arrives! This week, you'll find unexpected opportunities knocking at your door—be ready to seize them. Trust your instincts and stay bold.",
+                  "A surprise script offer arrives! This week, you&apos;ll find unexpected opportunities knocking at your door—be ready to seize them. Trust your instincts and stay bold.",
               },
               {
                 sign: "♍︎ VIRGO",
                 prediction:
-                  "Beware of backstage gossip. Keep a low profile in professional settings, and don't let others' opinions distract you from your path. It's a time for reflection, not drama.",
+                  "Beware of backstage gossip. Keep a low profile in professional settings, and don&apos;t let others&apos; opinions distract you from your path. It&apos;s a time for reflection, not drama.",
               },
               {
                 sign: "♌︎ LEO",
                 prediction:
-                  "Your charm opens new doors. Whether it's in social circles or your career, your magnetic personality will attract positive attention. Let your confidence lead the way.",
+                  "Your charm opens new doors. Whether it&apos;s in social circles or your career, your magnetic personality will attract positive attention. Let your confidence lead the way.",
               },
             ].map((item, index) => (
               <div key={index} className="flex items-start gap-2">
