@@ -5,7 +5,7 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-### 🌐 [Visit Our Live Website] (https://retro-newspaper-v27w.vercel.app/)
+### 🌐 [Visit Our Live Website](https://retro-newspaper-v27w.vercel.app/)
 
 
 A retro-themed Hollywood news and entertainment magazine web app. Star Gazer Magazine brings you the latest in celebrity gossip, film reviews, star interviews, horoscopes, and more—all wrapped in a stylish, vintage-inspired interface.
